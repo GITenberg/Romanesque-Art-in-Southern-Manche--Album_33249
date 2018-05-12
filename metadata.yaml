@@ -1,0 +1,26 @@
+_repo: Romanesque-Art-in-Southern-Manche--Album_33249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33249-h/images/001-cover-en-t.jpg
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33249'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'DC'
+- !lcsh 'Churches -- France -- Manche'
+- !lcsh 'France -- Description and travel'
+- !lcc 'NA'
+title: 'Romanesque Art in Southern Manche: Album'
+url: http://www.gutenberg.org/ebooks/33249
